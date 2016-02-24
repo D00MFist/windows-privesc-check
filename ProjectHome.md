@@ -1,0 +1,1 @@
+Project has moved: https://github.com/pentestmonkey/windows-privesc-check
